@@ -11,3 +11,5 @@ vertices in the same direction (in tet, shift rotates bottom vertices only)
 2. Run with java Game
 3. Rules are explained in the document in the repo
 4. At any point, type in "g" to have the program relist the goal state
+
+Thanks to Mr.Brown-Mykolyk of Stuyvesant High School for the cs1 folder (keyboard functions for Java programs)
